@@ -9,6 +9,3 @@ A comprehensive Laravel-based platform for **PT. Primeskills Training**, designe
 - **Course Creation & Enrollment Management**
 
 With a responsive design and robust security, the platform ensures efficient, secure, and user-friendly training operations.
-
-## License
-[MIT License](LICENSE)
